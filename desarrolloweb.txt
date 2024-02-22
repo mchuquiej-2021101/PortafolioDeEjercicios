@@ -1,0 +1,24 @@
+Desarrollo Web
+
+1.Hosting
+- Hosting: se refiere al servicio que permite alojar tu sitio web en Internet. Los proveedores de hosting almacenan tus archivos y bases de datos en servidores para que los usuarios puedan acceder a tu sitio.
+
+2.Dominio
+- Un dominio: es la dirección web que utilizan los usuarios para acceder a tu sitio. Por ejemplo, "www.miempresa.com" es un dominio. Los dominios se registran a través de registradores y deben renovarse periódicamente.
+
+3.Cliente-Servidor
+- El modelo cliente-servidor: es fundamental en el desarrollo web. En este modelo, el cliente (navegador web) solicita recursos (páginas, imágenes, etc.) al servidor (donde está alojado el sitio web). El servidor procesa la solicitud y envía los recursos al cliente.
+
+4.Web Semántica
+- La web semántica: es el siguiente paso en la evolución de la World Wide Web. En la Web 3.0, los contenidos no solo se enlazan, sino que también se enriquecen con **metadatos semánticos** legibles por máquinas. El objetivo es optimizar el intercambio de información haciendo que las máquinas distingan y procesen específicamente los significados legibles por máquinas.
+
+5.WebM
+-WebM: es un formato de archivo de video diseñado para la web. Es de código abierto y utiliza el códec VP8/VP9. Se utiliza ampliamente para transmitir videos en línea.
+
+6.Canvas
+- El elemento Canvas: de HTML5 permite dibujar gráficos, animaciones y otros elementos visuales directamente en la página web. Es útil para crear juegos, visualizaciones y aplicaciones interactivas.
+
+7.W3C
+- El World Wide Web Consortium (W3C): es una organización que establece estándares para la web. Sus especificaciones y recomendaciones influyen en el desarrollo web y garantizan la interoperabilidad entre navegadores y dispositivos.
+🌐🚀..
+
